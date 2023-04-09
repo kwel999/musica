@@ -1,0 +1,1 @@
+9999999999{"name": "youtube-search", "version": "2.1.2", "summary": "Perform YouTube video searches without the API", "platform": null, "requires_dist": ["requests"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

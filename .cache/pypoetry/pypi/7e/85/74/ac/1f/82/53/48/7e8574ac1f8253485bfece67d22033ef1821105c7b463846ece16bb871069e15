@@ -1,0 +1,1 @@
+9999999999{"name": "websocket", "version": "0.2.1", "summary": "Websocket implementation for gevent", "platform": "UNKNOWN", "requires_dist": ["gevent", "greenlet"], "requires_python": null, "files": [], "_cache_version": "1.0.0"}

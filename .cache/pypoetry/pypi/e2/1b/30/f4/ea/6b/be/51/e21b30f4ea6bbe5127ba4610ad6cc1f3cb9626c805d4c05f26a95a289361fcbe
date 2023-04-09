@@ -1,0 +1,1 @@
+9999999999{"name": "mutagen", "version": "1.45.1", "summary": "read and write audio tags for many formats", "platform": "", "requires_dist": null, "requires_python": ">=3.5, <4", "files": [], "_cache_version": "1.0.0"}

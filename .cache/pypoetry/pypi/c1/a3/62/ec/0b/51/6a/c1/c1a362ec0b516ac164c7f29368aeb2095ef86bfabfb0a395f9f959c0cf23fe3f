@@ -1,0 +1,1 @@
+9999999999{"name": "yt-dlp", "version": "2021.12.27", "summary": "A youtube-dl fork with additional features and patches", "platform": "", "requires_dist": ["mutagen", "pycryptodomex", "websockets"], "requires_python": ">=3.6", "files": [], "_cache_version": "1.0.0"}
